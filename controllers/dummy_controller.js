@@ -5,5 +5,5 @@ const helloWorld = (req, res) => {
 }
 
 module.exports = {
-    get: helloWorld
+    getWelcomeMessage: helloWorld
 }
